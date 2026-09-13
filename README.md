@@ -1,82 +1,102 @@
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030816,50:071127,100:287BFF&height=240&section=header&text=NEXARO&fontSize=72&fontColor=EAF6FF&animation=fadeIn&fontAlignY=38&desc=YOUR%20AI.%20YOUR%20POWER.%20YOUR%20FUTURE.&descSize=16&descAlignY=59" alt="NEXARO — Your AI. Your Power. Your Future." />
+</p>
 
-# N E X A R O
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1400&color=00E5FF&center=true&vCenter=true&width=650&height=55&lines=Hi%2C+I'm+Erfan+Rad.;I+build+websites+and+online+stores.;Design+with+purpose.+Build+with+care.;Welcome+to+NEXARO." alt="Hi, I'm Erfan Rad. I build websites and online stores. Welcome to NEXARO." />
+</p>
 
-### Thoughtful design. Practical development.
+<p align="center">
+  <b>WEB DEVELOPMENT &nbsp; / &nbsp; E-COMMERCE &nbsp; / &nbsp; EXPLORING AI</b>
+</p>
 
-**Erfan Rad · Web Developer**
+<p align="center">
+  Turning ideas into useful digital experiences.<br>
+  Built with attention to design, usability, and the details.
+</p>
 
-Building websites and online stores with attention to design,
-usability, and the details that make a product work.
-
-[Explore my repositories](https://github.com/nexaro-dev?tab=repositories)
-
-</div>
+<p align="center">
+  <a href="#-about"><b>About</b></a>
+  &nbsp; · &nbsp;
+  <a href="#-toolkit"><b>Toolkit</b></a>
+  &nbsp; · &nbsp;
+  <a href="#-on-the-workbench"><b>Projects</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/nexaro-dev?tab=repositories"><b>Repositories ↗</b></a>
+</p>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 About
 
-I'm Erfan, a web developer building under the **NEXARO** identity.
+I'm **Erfan Rad**, a web developer building under the **NEXARO** identity.
 
-My work focuses on responsive interfaces, e-commerce experiences,
-and custom features for real businesses. I enjoy turning an idea
-into something people can use — from the first layout to the admin panel.
+I work on responsive websites, online stores, and custom business features —
+connecting the visual experience with what happens behind the scenes.
 
-Alongside client work, I'm exploring AI-assisted development
-and the foundations of personal automation.
+**Currently:** developing client projects, improving my engineering skills,
+and exploring AI-assisted workflows.
 
-## 🛠️ Technologies I work with
+**My focus:** clear interfaces, consistent branding, and maintainable code.
+
+---
+
+## 🛠️ Toolkit
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React and Next.js" />
+  <b>INTERFACES & EXPERIENCES</b>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,wordpress,git,github,vscode&theme=dark" alt="Tailwind CSS, Bootstrap, WordPress, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js" />
 </p>
 
-| Frontend | E-commerce | Development tools |
+<p align="center">
+  <b>STYLING, COMMERCE & TOOLS</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,wordpress,git,github,vscode&theme=dark&perline=6" alt="Tailwind CSS, Bootstrap, WordPress, Git, GitHub, VS Code" />
+</p>
+
+<p align="center">
+  WooCommerce &nbsp; · &nbsp; API Integration &nbsp; · &nbsp;
+  Responsive Design &nbsp; · &nbsp; Persian / RTL Interfaces
+</p>
+
+---
+
+## 🚀 On the workbench
+
+| Project | What I'm building | Stage |
 | :--- | :--- | :--- |
-| HTML · CSS · JavaScript | WordPress | VS Code |
-| React · Next.js | WooCommerce | Git · GitHub |
-| TypeScript · Tailwind CSS | Custom storefronts | Browser DevTools |
-| Bootstrap | RTL interfaces | API integration |
+| **ZAVIOR** | A web project with administration tools, marketing features, and customer workflows. | In development |
+| **FERA LABEL** | A Persian fashion storefront using WordPress and WooCommerce. | In development |
+| **KHANHOSEINI** | A showroom and detailing experience with vehicle presentation and service bookings. | Planned |
 
-## 🚀 Projects in progress
-
-### ZAVIOR
-An ongoing web project with a growing administration system,
-including marketing tools, campaign history, and customer workflows.
-
-### FERA LABEL
-A Persian fashion storefront built with WordPress and WooCommerce,
-with a focus on brand identity and responsive shopping experiences.
-
-### KHANHOSEINI · Planned
-A car showroom and detailing website, planned around vehicle
-presentation, service bookings, and customer enquiries.
-
-## ✨ What matters to me
-
-- Clear interfaces that work across screen sizes.
-- A consistent visual identity throughout the product.
-- Maintainable code and well-organized project structure.
-- Features built around actual business needs.
-- Learning through building, reviewing, and improving.
-
-## 🔭 Looking ahead
-
-**NEXARO** is also the name of my future personal AI assistant project.
-For now, I'm developing the skills and foundations to bring it to life.
+<sub>Project previews and case studies will be added as the work becomes ready to share.</sub>
 
 ---
 
-<div align="center">
+## 🔭 Beyond the browser
 
-**NEXARO**
+### NEXARO · Personal AI Assistant
 
-Web development · E-commerce · Exploring automation
+A future project exploring how a personal assistant can help with
+everyday work through memory, tools, and controlled automation.
 
-<sub>Built with curiosity. Improved through practice.</sub>
+For now, I'm building the skills and foundations to bring it to life.
 
-</div>
+---
+
+<p align="center">
+  <b>Good design earns attention. Useful software earns trust.</b>
+</p>
+
+<p align="center">
+  <sub>ERFAN RAD &nbsp; / &nbsp; BUILT BY NEXARO</sub>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030816,50:071127,100:287BFF&height=100&section=footer" alt="" />
+</p>
